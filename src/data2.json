@@ -1,0 +1,339 @@
+{
+	"friday": [
+		{
+		  "stageName": "Main Stage",
+		  "acts": [
+			{
+			  "name": "70s / 80s Night Pre-Party",
+			  "time": "21.45 - 00.00" 
+			}]			
+		},
+		{
+		  "stageName": "Mind and Body",
+		  "acts": [
+			{
+			  "name": "Speed Dating",
+			  "time": "19.00 - 20.00" 
+			}]					
+		}
+	],
+	"saturday": [
+		{
+		  "stageName": "Main Stage",
+		  "acts": [
+			{
+			  "name": "Klaus Mitchell (Plant Based News)",
+			  "time": "14:15 - 14:45" 
+			},	
+			{
+			  "name": "Juliet Gellatley (Viva!)",
+			  "time": "15:15 - 15:45" 
+			},	
+			{
+			  "name": "Fat Gay Vegan",
+			  "time": "16.15 - 16.45" 
+			},	
+			{
+			  "name": "Patrik Baboumian",
+			  "time": "17.15 - 17.45" 
+			},	
+			{
+			  "name": "Joey Carbstrong",
+			  "time": "18.15 - 19.00" 
+			},	
+			{
+			  "name": "BOSH!",
+			  "time": "19.30 - 20.30" 
+			},	
+			{
+			  "name": "BOSH! Afterparty (House/Electronic/D&B/Junale)",
+			  "time": "21.45 - 00.00" 
+			}]				
+		},
+		{
+			"stageName": "Music",
+			"acts": [
+				{
+				  "name": "Jack Light (EDM/Rap)",
+				  "time": "12.45 - 13.15" 
+				},
+				{
+				  "name": "J.Chambers (Reggae)",
+				  "time": "13.45 - 14.15" 
+				},
+				{
+				  "name": "Lucas Brooks (Hip-Hop/Grime)",
+				  "time": "14.45 - 15.15" 
+				},
+				{
+				  "name": "Pimms Brooke (Pop/R&B)",
+				  "time": "15.45 - 16.15" 
+				},
+				{
+				  "name": "Jessie Marie (Acoustic/Chilled)",
+				  "time": "16.45 - 17.15" 
+				},
+				{
+				  "name": "Rich Cottell (Acoustic/Pop)",
+				  "time": "17.45 - 18.15" 
+				},
+				{
+				  "name": "Etherwood (Drum and Bass)",
+				  "time": "19.00 - 19.30" 
+				},
+				{
+				  "name": "Mobius Loop (Folk)",
+				  "time": "20.30 - 21.30" 
+				}		
+			]
+		},
+		{
+			"stageName": "Education",
+			"acts": [
+				{
+				  "name": "(WORKSHOP) Introduction to nonviolence, Animal Rising",
+				  "time": "10.00 - 11.15" 
+				},
+				{
+				  "name": "Transforming vegan advocacy with empathy and influence, Sasha Jolliffe Yasawi & Jen Deighan Schenk, We The Free",
+				  "time": "12.00 - 12.30" 
+				},
+				{
+				  "name": "Raising children on a vegan diet, Andrea Rymer, The Vegan Society",
+				  "time": "12.45 - 13.15" 
+				},
+				{
+				  "name": "Is vegan parenting activism? Rehana Jomeen",
+				  "time": "13.30 - 14.00" 
+				},
+				{
+				  "name": "How to legally access medicinal cannabis, Clark French, United Patients Alliance",
+				  "time": "14.15 - 14.45" 
+				},
+				{
+				  "name": "What is a meatflake? David Ramms",
+				  "time": "15:00 - 15:30"
+				},
+				{
+				  "name": "We are their voice, Clif Grant",
+				  "time": "15.45 - 16.15" 
+				},
+				{
+				  "name": "Plant Based Treaty in action in your community, Josephine & Teddy, Plant Based Treaty",
+				  "time": "16.45 - 17.15" 
+				},
+				{
+				  "name": "Revolutionary Dining: Mending the menu to save our planet and animals, Jasmine Clark, Viva!",
+				  "time": "17:45 - 18:15" 
+				},
+				{
+				  "name": "(PANEL) Ask the Experts: Medical superstar Q&A, Dr Alan Desmond & special guests",
+				  "time": "18.45 - 19.30" 
+				},
+				{
+				  "name": "(SCREENING) HOGWOOD: a modern horror story, Plus Q&A with Juliet Gellatlev of Viva!",
+				  "time": "20.00 - 21.00" 
+				}
+			]
+		},
+		{
+			"stageName": "Mind and Body",
+			"acts": [
+				{
+				  "name": "Xhai Meditation | Marie Shaw",
+				  "time": "07.00 - 07.50" 
+				},
+				{
+				  "name": "Vinyasa Flow | Nadeem Ahmad",
+				  "time": "08.00 - 08.50" 
+				},
+				{
+				  "name": "Pilates | Liz Moore",
+				  "time": "09.00 - 09.50" 
+				},
+				{
+				  "name": "Vinyasa Flow | Märta Sternäng",
+				  "time": "10.00 - 10.50" 
+				},
+				{
+				  "name": "Hatha Yoga | Laura Robinson",
+				  "time": "11.00 - 11.50" 
+				},
+				{
+				  "name": "Boxing/MMA | Lucas Brooks",
+				  "time": "14.30 - 15.30" 
+				},
+				{
+				  "name": "Speed Dating",
+				  "time": "15.45 - 17.00" 
+				},
+				{
+				  "name": "Upside Down Yoga | Chantelle Dawson",
+				  "time": "17.20 - 17.55" 
+				},
+				{
+				  "name": "Beyonce vs Lady Gaga Yoga | Clare McKenna",
+				  "time": "18.00 - 19.00" 
+				}
+			]
+		}
+	],
+	"sunday": [
+	    {
+			"stageName": "Main Stage",
+			"acts": [
+				{
+				  "name": "Juliet Gellatley (Viva!)",
+				  "time": "14.30 - 15.00" 
+				},
+				{
+				  "name": "Jordan Martin (Vegan Camp Out Founder) - Cancel Culture",
+				  "time": "15.30 - 16.00" 
+				},
+				{
+				  "name": "Tash Peterson",
+				  "time": "16.30 - 17.00" 
+				},
+				{
+				  "name": "So Vegan",
+				  "time": "17.30 - 18.00" 
+				},
+				{
+				  "name": "The Little London Vegan",
+				  "time": "18.30 - 19.15" 
+				},
+				{
+				  "name": "Romesh Ranganathan",
+				  "time": "20.45 - 21.45" 
+				},
+				{
+				  "name": "Josh Franceschi (You Me at Six) Afterparty (Rock/Metal/Punk)",
+				  "time": "21.45 - 00.00" 
+				}		
+			]
+		},
+		{
+			"stageName": "Music",
+			"acts": [
+				{
+				  "name": "Reason to Leave (Skate Punk)",
+				  "time": "12.00 - 12.30" 
+				},
+				{
+				  "name": "James Hoot (Acoustic/Comedy)",
+				  "time": "13.00 - 13.30" 
+				},
+				{
+				  "name": "Lizzie Esau (Alternative)",
+				  "time": "14.00 - 14.30" 
+				},
+				{
+				  "name": "The Vegan Queens (Drag/Cabaret)",
+				  "time": "15.00 - 15.30" 
+				},
+				{
+				  "name": "MDC (Hardcore/Punk)",
+				  "time": "16.00 - 16.30" 
+				},
+				{
+				  "name": "Bob Vylan (Grime/Punk)",
+				  "time": "17.00 - 17.30" 
+				},
+				{
+				  "name": "McDermott & North (Indie/Rock)",
+				  "time": "18.00 - 18.30" 
+				},
+				{
+				  "name": "Sam Ryder (Pop/Rock)",
+				  "time": "19.30 - 20.30" 
+				}			
+			]
+		},
+		{
+			"stageName": "Education",
+			"acts": [
+				{
+				  "name": "(WORKSHOP) Practicing nonviolence, Animal Rising",
+				  "time": "10.00 - 11.15" 
+				},
+				{
+				  "name": "How to be a voice for the animals, Jo Dixon and Issv Acosta, Viva!",
+				  "time": "12.00 - 12.30" 
+				},
+				{
+				  "name": "(PANEL) Hidden ingredients - how far do we look? Ecotricity & special guests",
+				  "time": "12.45 - 13.15" 
+				},
+				{
+				  "name": "Effective activism: find your place in the animal freedom movement, Dilan Fernando, Animal Think Tank",
+				  "time": "13.30 - 14.00" 
+				},
+				{
+				  "name": "The vegan blindspot, Humane Hancock",
+				  "time": "14.15 - 14.45" 
+				},
+				{
+				  "name": "(PANEL) The plant-based transition of education. The Vegan Society, ProVeg, Plant Based Universities, Plant based school kitchens & Little Devils",
+				  "time": "15.00 - 15.45" 
+				},
+				{
+				  "name": "Marketing yourself for effective online activism, Die Militante Veganerin (The Militant Vegan)",
+				  "time": "16.00 - 16.30" 
+				},
+				{
+				  "name": "The enforcement problem, Vanessa Johansson, The Animal Law Foundation",
+				  "time": "17.00 - 17.30" 
+				},
+				{
+				  "name": "Jet2holidays - stop promoting orca prison! Dr Carys Bennett, PETA",
+				  "time": "18.00 - 18.30" 
+				},
+				{
+				  "name": "Animal Rising: Building a movement for life, Animal Rising",
+				  "time": "19.00 - 19.30" 
+				},
+				{
+				  "name": "(SCREENING) Eating Our Way to Extinction",
+				  "time": "20.00 - 21.30" 
+				}
+			]
+		},
+		{
+			"stageName": "Mind and Body",
+			"acts": [
+				{
+				  "name": "Breathwork | Lindsey Huebner",
+				  "time": "07.00 - 07.50" 
+				},
+				{
+				  "name": "Fitness Yoga | David Baylie",
+				  "time": "08.00 - 08.50" 
+				},
+				{
+				  "name": "Yin Yoga | Sophia Tupy",
+				  "time": "09.00 - 09.50" 
+				},
+				{
+				  "name": "Zumba | Kimberley Harrison",
+				  "time": "10.00 - 10.50" 
+				},
+				{
+				  "name": "Manifesting MasterMind (Talk) | Ashwyn Francis",
+				  "time": "14.00 - 15.30" 
+				},
+				{
+				  "name": "Self Love Chat (Talk) | SophthickFitnesss",
+				  "time": "15.45 - 17.10" 
+				},
+				{
+				  "name": "Animal Yoga | Alexandra Cullip",
+				  "time": "17.20 - 17.55" 
+				},
+				{
+				  "name": "Functional Yoga | Kerry & Declan Wooloughan",
+				  "time": "18.00 - 19.00" 
+				}
+			]
+		}
+	]
+}
