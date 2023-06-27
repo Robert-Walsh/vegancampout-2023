@@ -49,7 +49,7 @@ function Plan({selectedActs}) {
   if(!selectedActsExist){
     return(
       <div style={{'padding': '10px','textAlign': 'center'}}>
-        <div className="title">Glastonbury 2023 Planner</div>
+        <div className="title">Vegan Camp Out 2023 Planner</div>
         <div>
           Navigate the days and select some acts to see!
         </div>
