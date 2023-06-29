@@ -49,7 +49,9 @@ function Plan({selectedActs}) {
   if(!selectedActsExist){
     return(
       <div style={{'padding': '10px','textAlign': 'center'}}>
-        <div className="title">Vegan Camp Out 2023 Planner</div>
+        <img src="https://static.wixstatic.com/media/01e03d_4906f97df80245ff890a1d1e7c992349~mv2.png/v1/crop/x_40,y_0,w_3792,h_1599/fill/w_811,h_342,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Header%202023b.png" alt="vcampoutimg"/>
+
+        <div className="title" style={{'paddingTop': '20px'}}>Vegan Camp Out 2023 Planner</div>
         <div>
           Navigate the days and select some acts to see!
         </div>
